@@ -1,0 +1,13 @@
+{
+    "name": "kate/osadnicy",
+    "description": "Gra w osadnikow",
+    "authors": [
+        {
+            "name": "Kate Pogonowska",
+            "email": "kate@pogononowska.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    }
+}
